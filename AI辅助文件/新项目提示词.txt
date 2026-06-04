@@ -1,0 +1,2 @@
+请将这个广告或名片中的信息按要求归纳成json字典（indent = \t，ensure_ascii=False）
+其中统一社会信用代码需要上网搜索
