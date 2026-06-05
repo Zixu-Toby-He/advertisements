@@ -3204,12 +3204,13 @@
 			]
 		},
 		{
-			"key": "korea_2019SoundPlatform",
+			"key": "korea_3798701153",
+			"事业者登录番号": "379-87-01153",
 			"公司名称": "Sound Platform",
 			"地点": [
 				{
 					"key": "默认地址",
-					"value": "Daedeok Biz Center Building A, Room 520, 17 Techno 4-ro, Yuseong-gu, Daejeon, South Korea"
+					"value": "서울特别市 城东区 圣水一路 10길 26, 하우스디世宗타워 1601-1603号"
 				}
 			],
 			"官网": "https://www.soundplatform.io",
@@ -3226,7 +3227,6 @@
 					]
 				}
 			],
-			"关联个人": [],
 			"其他关键词": [
 				"人工智能母带服务",
 				"AI mastering",
