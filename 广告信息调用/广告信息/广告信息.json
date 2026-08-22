@@ -296,7 +296,7 @@
 				"微波射频业务",
 				"激光感知业务"
 			],
-			"官网": "www.raytrontek.com",
+			"官网": "https://www.raytrontek.com",
 			"子公司": [
 				"china_91370600MADLFTLD0R"
 			]
@@ -315,7 +315,7 @@
 			"邮箱": [
 				"marketing@raytrontek.com"
 			],
-			"官网": "www.raytronmicro.com"
+			"官网": "https://www.raytronmicro.com"
 		},
 		{
 			"key": "china_91440300065480383L",
@@ -1008,7 +1008,7 @@
 			"电话": [
 				"18002578762"
 			],
-			"官网": "www.jc-pcba.com",
+			"官网": "https://www.jc-pcba.com/",
 			"邮箱": [
 				"sales06@jc-pcba.com"
 			],
@@ -2876,7 +2876,7 @@
 					"value": "浙江省杭州市滨江区"
 				}
 			],
-			"官网": "www.irayple.com",
+			"官网": "https://www.irayple.com/cn/home",
 			"电话": [
 				"0571-87235766"
 			],
@@ -2916,7 +2916,7 @@
 			"邮箱": [
 				"hr@tuweitech.com"
 			],
-			"官网": "www.tuweitech.com",
+			"官网": "https://www.tuweitech.com/",
 			"资质认证": [
 				"国家级专精特新小巨人企业",
 				"国家级高新技术企业",
@@ -4341,7 +4341,7 @@
 			"key": "china_91440300085985581Y",
 			"统一社会信用代码": "91440300085985581Y",
 			"公司名称": "深圳市新圳宇科技开发有限公司",
-			"官网": "www.zhenyudd.com",
+			"官网": "https://www.zhenyudd.com/cn/",
 			"地点": [
 				{
 					"key": "默认地址",
@@ -4669,7 +4669,7 @@
 			"邮箱": [
 				"adata_sh@adata.com"
 			],
-			"官网": "www.adata.com.cn",
+			"官网": "https://www.adata.com.cn/",
 			"产品": [
 				{
 					"key": "express_sd_71",
@@ -5135,7 +5135,7 @@
 				"ISO45001",
 				"ISO13485"
 			],
-			"官网": "www.welfarepcb.com",
+			"官网": "https://www.welfarepcb.com/",
 			"其他关键词": [
 				"极PCB解决方案",
 				"周转速度快及可靠",
@@ -5306,7 +5306,7 @@
 			"邮箱": [
 				"shizhichun@taikunchina.com"
 			],
-			"官网": "www.taikunchina.com",
+			"官网": "https://www.taikunchina.com/",
 			"关联个人": [
 				"Shi_Zhichun_13691111138"
 			]
@@ -5355,7 +5355,7 @@
 			"USt-IdNr.": "DE184383113",
 			"公司名称": "Allied Vision Technologies GmbH",
 			"品牌归属": "TKH Vision 旗下品牌",
-			"官网": "www.alliedvision.com",
+			"官网": "https://www.alliedvision.cn/cn",
 			"地点": [
 				{
 					"key": "德国总部",
@@ -8721,8 +8721,7 @@
 			"电话": [
 				"+862164861133"
 			],
-			"邮编": "201103",
-			"官网": "www.alliedvision.com"
+			"邮编": "201103"
 		},
 		{
 			"key": "china_911101086605410990",
@@ -9277,7 +9276,7 @@
 			"邮箱": [
 				"market@seavo.com"
 			],
-			"官网": "www.seavo.com",
+			"官网": "https://www.seavo.com/",
 			"关联个人": [
 				"Cui_18927475611"
 			]
@@ -9632,7 +9631,7 @@
 			"电话": [
 				"18210002710"
 			],
-			"官网": "www.ehiway.cn"
+			"官网": "https://www.ehiway.cn/"
 		},
 		{
 			"key": "china_91420100MA4K4BYW2L",
@@ -9652,13 +9651,15 @@
 				"机器人视觉检测生产线实训平台",
 				"智慧工厂应用示范实训中心"
 			],
-			"邮箱": [
-				"362542291@qq.com"
+			"官网": "http://www.whmjjqr.com/",
+			"电话": [
+				"027-51486888"
 			],
 			"关联个人": [
 				"Rao_15527806369",
 				"Yan_18502766139",
-				"Hu_18507165394"
+				"Hu_18507165394",
+				"Han_Hongwei_18627077269"
 			]
 		},
 		{
@@ -10176,6 +10177,15 @@
 			"职位": "业务经理",
 			"关联企业": [
 				"china_91440300359397593H"
+			]
+		},
+		{
+			"key": "Han_Hongwei_18627077269",
+			"姓名": "韩宏伟",
+			"电话": "18627077269",
+			"邮箱": "362542291@qq.com",
+			"关联企业": [
+				"china_91420100MA4K4BYW2L"
 			]
 		}
 	]
